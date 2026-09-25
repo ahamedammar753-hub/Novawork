@@ -1,0 +1,6 @@
+{
+  "name": "NOVA Office",
+  "description": "All-in-one mobile productivity suite featuring Word-style document editor, Excel-style spreadsheet, PowerPoint-style presentation maker, Publisher designer, PDF tools, forms, and file manager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
